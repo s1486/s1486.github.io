@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"><channel><title>Kitsune Solar / Passport</title><link>https://kitsune.solar/en/</link><description/><language>en-US</language><sy:updatePeriod>weekly</sy:updatePeriod><sy:updateFrequency>1</sy:updateFrequency><managingEditor>mail@kitsune.solar (Kitsune Solar)</managingEditor><webMaster>mail@kitsune.solar (Kitsune Solar)</webMaster><copyright>CC BY-SA 4.0</copyright><image><link>https://kitsune.solar/en/</link><url>https://kitsune.solar/img/icon-128.png</url><width>128</width><height>128</height><title>Kitsune Solar / Passport</title><description/></image><atom:link href="https://kitsune.solar/en/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://kitsune.solar/en/about/</link><guid isPermaLink="true">https://kitsune.solar/en/about/</guid><description>My name is Kitsune Solar. I do various web development and system administration, self taught.
+Over past creative path, I created and closed many different interesting and not very projects. Most of my projects were focused on the study of web technologies and study of system administration. Someday I will publish the story of each of them here&amp;hellip;
+This page will be updated from time to time when I have a desire to add something.</description><content:encoded><![CDATA[<p>My name is <strong>Kitsune Solar</strong>. I do various web development and system administration, self taught.</p>
+<p>Over past creative path, I created and closed many different interesting and not very projects. Most of my projects were focused on the study of web technologies and study of system administration. Someday I will publish the story of each of them here&hellip;</p>
+<p>This page will be updated from time to time when I have a desire to add something.</p>
+]]></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item><item><title>Donate</title><link>https://kitsune.solar/en/donate/</link><guid isPermaLink="true">https://kitsune.solar/en/donate/</guid><description>Hi! On this page you can support me with money.
+YooMoney Enter target transfer. Set amount. Bank Card YooMoney Mobile Phone Select a transfer method. Enter an accompanying comment (max 200 characters). Name Check if you want to specify name of sender. E-mail Check if you want to specify sender&amp;#39;s e-mail. Phone Check if you want to specify sender&amp;#39;s phone number. Address Check if you want to specify sender address.</description><content:encoded><![CDATA[
+
+
+
+
+
+
+<div class="shortcode shortcode-alert">
+  <div class="alert alert-success d-flex" role="alert">
+    <div class="flex-shrink-0 align-self-center">
+      <i class="fas fa-lightbulb fa-fw fa-2x"></i>
+    </div>
+    <div class="flex-grow-1 ms-3">
+        <p>Hi! On this page you can support me with money.</p>
+
+    </div>
+  </div>
+</div>
+
+
+
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+
+    <div class="shortcode shortcode-form shortcode-form-donate mb-3">
+      <div class="row row-cols-1 g-3">
+        
+          
+            <div class="col">
+              <div class="card">
+                <h5 class="card-header">YooMoney</h5>
+                <div class="card-body">
+                  <form method="post" action="https://yoomoney.ru/quickpay/confirm.xml">
+                    <input type="hidden" name="receiver" value="4100117508070347"/>
+                    <input type="hidden" name="formcomment" value="Donation Form"/>
+                    <input type="hidden" name="short-dest" value="Donation Form"/>
+                    <input type="hidden" name="quickpay-form" value="donate"/>
+                    <div class="row row-cols-1 row-cols-lg-2 g-3">
+                      <div class="col">
+                        <div class="row row-cols-1 g-3">
+                          <div class="col">
+                            <div class="input-group">
+                              <span class="input-group-text"><i class="fas fa-coffee fa-fw"></i></span>
+                              <input class="form-control" type="text" name="targets" placeholder='Target transfer...' required/>
+                            </div>
+                            <small class="form-text text-muted">Enter target transfer.</small>
+                          </div>
+                          <div class="col">
+                            <div class="input-group">
+                              <span class="input-group-text"><i class="fas fa-ruble-sign fa-fw"></i></span>
+                              <input class="form-control" type="number" name="sum" value="100" min="1"/>
+                            </div>
+                            <small class="form-text text-muted">Set amount.</small>
+                          </div>
+                          <div class="col">
+                            <div class="input-group">
+                              <span class="input-group-text"><i class="far fa-credit-card fa-fw"></i></span>
+                              <select class="form-select" name="paymentType">
+                                <option value="AC">Bank Card</option>
+                                <option value="PC">YooMoney</option>
+                                <option value="MC">Mobile Phone</option>
+                              </select>
+                            </div>
+                            <small class="form-text">Select a transfer method.</small>
+                          </div>
+                          <div class="col">
+                            <textarea class="form-control" name="comment" rows="2" maxlength="200" placeholder='Enter a comment (if available)...'></textarea>
+                            <small class="form-text">Enter an accompanying comment (max 200 characters).</small>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col">
+                        <div class="row row-cols-1 g-3">
+                          <div class="col">
+                            <div class="form-check">
+                              <input class="form-check-input" type="checkbox" name="need-fio" id="ya-need-fio"/>
+                              <label class="form-check-label" for="ya-need-fio">Name</label>
+                              <div class="form-text">Check if you want to specify name of sender.</div>
+                            </div>
+                          </div>
+                          <div class="col">
+                            <div class="form-check">
+                              <input class="form-check-input" type="checkbox" name="need-email" id="ya-need-email"/>
+                              <label class="form-check-label" for="ya-need-email">E-mail</label>
+                              <div class="form-text">Check if you want to specify sender&#39;s e-mail.</div>
+                            </div>
+                          </div>
+                          <div class="col">
+                            <div class="form-check">
+                              <input class="form-check-input" type="checkbox" name="need-phone" id="ya-need-phone"/>
+                              <label class="form-check-label" for="ya-need-phone">Phone</label>
+                              <div class="form-text">Check if you want to specify sender&#39;s phone number.</div>
+                            </div>
+                          </div>
+                          <div class="col">
+                            <div class="form-check">
+                              <input class="form-check-input" type="checkbox" name="need-address" id="ya-need-address"/>
+                              <label class="form-check-label" for="ya-need-address">Address</label>
+                              <div class="form-text">Check if you want to specify sender address.</div>
+                            </div>
+                          </div>
+                          <div class="col">
+                            <div class="d-grid">
+                              <button class="btn btn-primary is-label" type="submit">
+                                <i class="fas fa-donate fa-fw me-2"></i>Transfer
+                              </button>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+          
+        
+
+        
+          
+            <div class="col">
+              <div class="card">
+                <h5 class="card-header">Bank Cards</h5>
+                <div class="card-body">
+                  <div class="row g-3">
+                      
+                        <div class="col-lg">
+                          <div class="input-group">
+                            <span class="input-group-text"><i class="far fa-credit-card fa-fw"></i></span>
+                            <input class="form-control" type="text" value="4584 4328 1371 3790" data-ext-fn="ext-select-all" readonly/>
+                            <span class="input-group-text"><i class="fas fa-dollar-sign fa-fw"></i></span>
+                          </div>
+                        </div>
+                      
+                      
+                        <div class="col-lg">
+                          <div class="input-group">
+                            <span class="input-group-text"><i class="far fa-credit-card fa-fw"></i></span>
+                            <input class="form-control" type="text" value="4584 4328 1893 8194" data-ext-fn="ext-select-all" readonly/>
+                            <span class="input-group-text"><i class="fas fa-euro-sign fa-fw"></i></span>
+                          </div>
+                        </div>
+                      
+                      
+                        <div class="col-lg">
+                          <div class="input-group">
+                            <span class="input-group-text"><i class="far fa-credit-card fa-fw"></i></span>
+                            <input class="form-control" type="text" value="4584 4328 1325 5511" data-ext-fn="ext-select-all" readonly/>
+                            <span class="input-group-text"><i class="fas fa-ruble-sign fa-fw"></i></span>
+                          </div>
+                        </div>
+                      
+                  </div>
+                </div>
+              </div>
+            </div>
+          
+        
+
+        
+          
+        
+
+        
+          
+            <div class="col">
+              <div class="card">
+                <h5 class="card-header">Crypto</h5>
+                <div class="card-body">
+                  <div class="row g-3">
+                      
+                        <div class="col-lg">
+                          <div class="input-group mb-3">
+                            <span class="input-group-text"><i class="fab fa-bitcoin fa-fw"></i></span>
+                            <input class="form-control" type="text" value="bc1q855dt7p8mtd74yw96vvu93wy59j0fl8gaqh62h" data-ext-fn="ext-select-all" readonly/>
+                            <span class="input-group-text">BTC</span>
+                          </div>
+                          <div class="d-flex justify-content-center">
+                            <div data-ext-fn="ext-qrcode" data-ext-text="bc1q855dt7p8mtd74yw96vvu93wy59j0fl8gaqh62h"></div>
+                          </div>
+                        </div>
+                      
+                      
+                        <div class="col-lg">
+                          <div class="input-group mb-3">
+                            <span class="input-group-text"><i class="fab fa-ethereum fa-fw"></i></span>
+                            <input class="form-control" type="text" value="0x7252D91B61E18eDE4c8ec43a0EE7F1dFD17542ab" data-ext-fn="ext-select-all" readonly/>
+                            <span class="input-group-text">ETH</span>
+                          </div>
+                          <div class="d-flex justify-content-center">
+                            <div data-ext-fn="ext-qrcode" data-ext-text="0x7252D91B61E18eDE4c8ec43a0EE7F1dFD17542ab"></div>
+                          </div>
+                        </div>
+                      
+                      
+                        <div class="col-lg">
+                          <div class="input-group mb-3">
+                            <span class="input-group-text"><i class="fab fa-monero fa-fw"></i></span>
+                            <input class="form-control" type="text" value="48Q1zEztoECNyijSoQVhHC12LaxzNLPrhBgwGdM2847QY8ayusQ6XBjCD9hgeQk2LLUKbBvC5yKxDDmzkGvGyMGE9o95YkR" data-ext-fn="ext-select-all" readonly/>
+                            <span class="input-group-text">XMR</span>
+                          </div>
+                          <div class="d-flex justify-content-center">
+                            <div data-ext-fn="ext-qrcode" data-ext-text="48Q1zEztoECNyijSoQVhHC12LaxzNLPrhBgwGdM2847QY8ayusQ6XBjCD9hgeQk2LLUKbBvC5yKxDDmzkGvGyMGE9o95YkR"></div>
+                          </div>
+                        </div>
+                      
+                  </div>
+                </div>
+              </div>
+            </div>
+          
+        
+
+      </div>
+    </div>
+
+
+
+]]></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item></channel></rss>
