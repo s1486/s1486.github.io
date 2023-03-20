@@ -854,8 +854,7 @@ Apache HTTPD Сервер для обработки веб-запросов. NGI
 <a title="" href="https://xenforo.com/" target="_blank" rel="noopener noreferrer nofollow">XenForo</a>
 <br>
 Мощный движок для создания форума. От разработчиков vBulletin. Делаю небольшие модули и темы для этого движка.</li>
-</ul>]]></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item><item><title>Языки</title><link>https://kitsune.solar/ru/expertise/code/</link><guid isPermaLink="true">https://kitsune.solar/ru/expertise/code/</guid><description> HTML Использую для разработки веб-приложений. CSS В работе предпочитаю использовать Sass / SCSS. JavaScript Логика. PHP Пишу дополнения, модули, модификации, расширения для веб-приложений. Shell ( Bash / PowerShell ])
-Пишу скрипты для автоматизации различных действий на Bash и PowerShell. PowerShell недавно начал изучать.</description><content:encoded><![CDATA[<ul>
+</ul>]]></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item><item><title>Языки</title><link>https://kitsune.solar/ru/expertise/code/</link><guid isPermaLink="true">https://kitsune.solar/ru/expertise/code/</guid><description> HTML Использую для разработки веб-приложений. CSS В работе предпочитаю использовать Sass / SCSS. JavaScript Логика. PHP Пишу дополнения, модули, модификации, расширения для веб-приложений. Bash / PowerShell Пишу скрипты для автоматизации различных действий на Bash и PowerShell. PowerShell недавно начал изучать.</description><content:encoded><![CDATA[<ul>
 <li>
 
 
@@ -988,7 +987,7 @@ Apache HTTPD Сервер для обработки веб-запросов. NGI
 <a title="" href="https://php.net/" target="_blank" rel="noopener noreferrer nofollow">PHP</a>
 <br>
 Пишу дополнения, модули, модификации, расширения для веб-приложений.</li>
-<li>Shell (
+<li>
 
 
 
@@ -1018,7 +1017,7 @@ Apache HTTPD Сервер для обработки веб-запросов. NGI
     
 
 
-<a title="" href="https://github.com/search?q=topic:bash&#43;org:zbox&amp;type=Repositories" target="_blank" rel="noopener noreferrer nofollow">Bash</a>
+<a title="" href="https://github.com/search?q=topic:bash&#43;org:pkgstore&amp;type=Repositories" target="_blank" rel="noopener noreferrer nofollow">Bash</a>
  / 
 
 
@@ -1049,9 +1048,79 @@ Apache HTTPD Сервер для обработки веб-запросов. NGI
     
 
 
-<a title="" href="https://github.com/search?q=topic:pwsh&#43;org:zbox&amp;type=Repositories" target="_blank" rel="noopener noreferrer nofollow">PowerShell</a>
-])<br>
+<a title="" href="https://github.com/search?q=topic:pwsh&#43;org:pkgstore&amp;type=Repositories" target="_blank" rel="noopener noreferrer nofollow">PowerShell</a>
+<br>
 Пишу скрипты для автоматизации различных действий на Bash и PowerShell. PowerShell недавно начал изучать.</li>
+</ul>]]></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item><item><title>Инструменты</title><link>https://kitsune.solar/ru/expertise/tools/</link><guid isPermaLink="true">https://kitsune.solar/ru/expertise/tools/</guid><description> MHDD Диагностика диска. Тестирую поверхность блинов HDD на наличие дефектов. HDAT2 Расширенная диагностика диска. Корректирую / исправляю soft-bad сектора. Windows Live CD
+Диагностика целого ПК и его комплектующих. Сделал собственный Live CD на основе Windows 11, для того, чтобы диагностировать компьютеры и их комплектующие.</description><content:encoded><![CDATA[<ul>
+<li>
+
+
+
+
+
+
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+
+<a title="" href="https://hdd.by/" target="_blank" rel="noopener noreferrer nofollow">MHDD</a>
+<br>
+Диагностика диска. Тестирую поверхность блинов HDD на наличие дефектов.</li>
+<li>
+
+
+
+
+
+
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+
+<a title="" href="https://www.hdat2.com/" target="_blank" rel="noopener noreferrer nofollow">HDAT2</a>
+<br>
+Расширенная диагностика диска. Корректирую / исправляю soft-bad сектора.</li>
+<li>Windows Live CD<br>
+Диагностика целого ПК и его комплектующих. Сделал собственный Live CD на основе Windows 11, для того, чтобы диагностировать компьютеры и их комплектующие.</li>
 </ul>]]></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item><item><title>GitHub Actions Store</title><link>https://kitsune.solar/ru/portfolio/ghastore/</link><guid isPermaLink="true">https://kitsune.solar/ru/portfolio/ghastore/</guid><description>Хранилище со сценариями к GitHub Actions. Другие репозитории подключаются к этим сценариям, выполняя указанные инструкции.</description><content:encoded>&lt;p>Хранилище со сценариями к GitHub Actions. Другие репозитории подключаются к этим сценариям, выполняя указанные инструкции.&lt;/p></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item><item><title>Library Online</title><link>https://kitsune.solar/ru/portfolio/lib_onl/</link><guid isPermaLink="true">https://kitsune.solar/ru/portfolio/lib_onl/</guid><description>Во время работы часто приходится сталкиваться с задачами, требующими неординарного решения. Именно поэтому я сделал для себя библиотеку записей и назвал её скромно Library Online . В этой библиотеке я записываю найденные ответы, инструкции и советы по решению различных вопросов.
 Библиотека, как и мои записи, доступна для всех и распространяется под лицензией CC BY-SA 4.0 .</description><content:encoded><![CDATA[<p>Во время работы часто приходится сталкиваться с задачами, требующими неординарного решения. Именно поэтому я сделал для себя библиотеку записей и назвал её скромно 
 
@@ -1187,9 +1256,4 @@ Apache HTTPD Сервер для обработки веб-запросов. NGI
 <li>Разработка и внедрение системы заказа экспертизы.</li>
 </ul>
 </li>
-</ul>]]></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item><item><title>Обо мне</title><link>https://kitsune.solar/ru/about/</link><guid isPermaLink="true">https://kitsune.solar/ru/about/</guid><description>Меня зовут Kitsune Solar. Я занимаюсь различными веб-разработками и системным администрированием, самоучка.
-За пройденный творческий путь, я создавал и закрывал много различных интересных и не очень проектов. Большинство моих проектов были направлены на исследование веб-технологий и изучение системного администрирования. Когда-нибудь здесь я опубликую историю каждого из них&amp;hellip;
-Эта страничка время от времени будет обновляться, когда у меня будет желание что-либо добавить.</description><content:encoded><![CDATA[<p>Меня зовут <strong>Kitsune Solar</strong>. Я занимаюсь различными веб-разработками и системным администрированием, самоучка.</p>
-<p>За пройденный творческий путь, я создавал и закрывал много различных интересных и не очень проектов. Большинство моих проектов были направлены на исследование веб-технологий и изучение системного администрирования. Когда-нибудь здесь я опубликую историю каждого из них&hellip;</p>
-<p>Эта страничка время от времени будет обновляться, когда у меня будет желание что-либо добавить.</p>
-]]></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item></channel></rss>
+</ul>]]></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item></channel></rss>
