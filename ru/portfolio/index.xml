@@ -1,5 +1,37 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"><channel><title>Работы | Kitsune Solar / Passport</title><link>https://kitsune.solar/ru/portfolio/</link><description>Системный администратор и веб-разработчик. Пишу статьи по системному администрированию и разработке различных систем, приложений и серверов.</description><language>ru-RU</language><sy:updatePeriod>weekly</sy:updatePeriod><sy:updateFrequency>1</sy:updateFrequency><managingEditor>mail@kitsune.solar (Kitsune Solar)</managingEditor><webMaster>mail@kitsune.solar (Kitsune Solar)</webMaster><copyright>CC BY-SA 4.0</copyright><image><link>https://kitsune.solar/ru/portfolio/</link><url>https://kitsune.solar/img/icon-128.png</url><width>128</width><height>128</height><title>Работы | Kitsune Solar / Passport</title><description>Системный администратор и веб-разработчик. Пишу статьи по системному администрированию и разработке различных систем, приложений и серверов.</description></image><atom:link href="https://kitsune.solar/ru/portfolio/index.xml" rel="self" type="application/rss+xml"/><item><title>Flarum</title><link>https://kitsune.solar/ru/portfolio/flarum/</link><guid isPermaLink="true">https://kitsune.solar/ru/portfolio/flarum/</guid><description>Пакет русской локализации движка Flarum - программного обеспечения нового поколения для создания сообществ.
-Реализована поддержка единичных и множественных чисел (переменных). Все фразы взяты в двойные кавычки для предотвращения конфликтов со знаками препинания, потому что их в русском языке используется большее количество, по сравнению с английским.</description><content:encoded><![CDATA[<p>Пакет русской локализации движка Flarum - программного обеспечения нового поколения для создания сообществ.</p>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"><channel><title>Работы | Kitsune Solar / Passport</title><link>https://kitsune.solar/ru/portfolio/</link><description>Системный администратор и веб-разработчик. Пишу статьи по системному администрированию и разработке различных систем, приложений и серверов.</description><language>ru-RU</language><sy:updatePeriod>weekly</sy:updatePeriod><sy:updateFrequency>1</sy:updateFrequency><managingEditor>mail@kitsune.solar (Kitsune Solar)</managingEditor><webMaster>mail@kitsune.solar (Kitsune Solar)</webMaster><copyright>CC BY-SA 4.0</copyright><image><link>https://kitsune.solar/ru/portfolio/</link><url>https://kitsune.solar/img/icon-128.png</url><width>128</width><height>128</height><title>Работы | Kitsune Solar / Passport</title><description>Системный администратор и веб-разработчик. Пишу статьи по системному администрированию и разработке различных систем, приложений и серверов.</description></image><atom:link href="https://kitsune.solar/ru/portfolio/index.xml" rel="self" type="application/rss+xml"/><item><title>Flarum</title><link>https://kitsune.solar/ru/portfolio/flarum/</link><guid isPermaLink="true">https://kitsune.solar/ru/portfolio/flarum/</guid><description>Отличный движок для контентных проектов, таких как блог или форум. Взялся за его перевод в 2015 году. В итоге, разработчики объявили мой перевод официальным и включили в свой дистрибутив. Являюсь куратором русской локализации движка Flarum.</description><content:encoded><![CDATA[<p>Отличный движок для контентных проектов, таких как блог или форум. Взялся за его перевод в 2015 году. В итоге, разработчики объявили мой перевод официальным и включили в свой дистрибутив. Являюсь куратором русской локализации движка Flarum.</p>
+<h2 id="пакет-русской-локализации-движка-flarum">Пакет русской локализации движка Flarum</h2>
+<p>
+
+
+
+
+
+
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+
+<a title="" href="https://discuss.flarum.org/d/1545" target="_blank" rel="noopener noreferrer nofollow">Пакет русской локализации движка Flarum</a>
+ - программного обеспечения нового поколения для создания сообществ.</p>
 <ul>
 <li>Реализована поддержка единичных и множественных чисел (переменных).</li>
 <li>Все фразы взяты в двойные кавычки для предотвращения конфликтов со знаками препинания, потому что их в русском языке используется большее количество, по сравнению с английским.</li>
@@ -70,15 +102,39 @@
 .</p>]]></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item><item><title>LiveStreet</title><link>https://kitsune.solar/ru/portfolio/livestreet/</link><guid isPermaLink="true">https://kitsune.solar/ru/portfolio/livestreet/</guid><description>Сначала мне очень не нравился LiveStreet CMS. Но потом я попробовал шаблон &amp;ldquo;Developer-Kit&amp;rdquo; от vOFFka на основе Bootstrap и с этим шаблоном LiveStreet для меня заиграл новыми красками. И так заиграл, что я выпустил для своих проектов и некоторое время поддерживал собственные модули и модификацию этого шаблона под названием &amp;ldquo;Developer-Kit MOD&amp;rdquo;, в которой я исправлял ошибки в вёрстке и обновлял компоненты.
 К сожалению, LiveStreet CMS перестал обновляться, а автор этого движка отошёл от разработки.</description><content:encoded><![CDATA[<p>Сначала мне очень не нравился LiveStreet CMS. Но потом я попробовал шаблон &ldquo;Developer-Kit&rdquo; от vOFFka на основе Bootstrap и с этим шаблоном LiveStreet для меня заиграл новыми красками. И так заиграл, что я выпустил для своих проектов и некоторое время поддерживал собственные модули и модификацию этого шаблона под названием &ldquo;Developer-Kit MOD&rdquo;, в которой я исправлял ошибки в вёрстке и обновлял компоненты.</p>
 <p><em>К сожалению, LiveStreet CMS перестал обновляться, а автор этого движка отошёл от разработки.</em></p>
-<div class="shortcode shortcode-spb">
-  <p>
-    <button type="button" class="btn btn-primary is-label" data-bs-toggle="collapse" data-bs-target="#sc-spb-1f0b1942c00c1a532022f1acea128d8b">
-      <span>Developer-Kit MOD</span>
-    </button>
-  </p>
-  <div class="collapse" id="sc-spb-1f0b1942c00c1a532022f1acea128d8b">
-    <div class="card card-body mb-3">
-        <p>Моя версия отличается следующими параметрами:</p>
+<h2 id="developer-kit-mod">Developer-Kit MOD</h2>
+<p>
+
+
+
+
+
+
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+
+<a title="" href="http://livestreet.ru/blog/18322.html" target="_blank" rel="noopener noreferrer nofollow">Developer-Kit MOD</a>
+ отличается от оригинала следующими параметрами:</p>
 <ul>
 <li>Чтобы не править оригинальную тему <code>default</code>, была создана новая - <code>system</code>.</li>
 <li>Добавлены иконки Font Awesome для верхней навигации и выпадающей панели пользователя.</li>
@@ -88,7 +144,19 @@
 <li>Код названия сайта вынесен в отдельный шаблон <code>sitename.tpl</code> и размещён в директории <code>custom/</code>.</li>
 <li>Статистика производительности отображается только для основного администратора с <code>ID = 1</code>.</li>
 </ul>
-<p>Также в ходе разработки модифицированной версии были сделаны следующие изменения:</p>
+
+
+
+
+<div class="shortcode shortcode-spb">
+  <p>
+    <button type="button" class="btn btn-primary is-label" data-bs-toggle="collapse" data-bs-target="#sc-spb-2604c0074dccb94edb74c8c74d001121">
+      <span>Другие изменения</span>
+    </button>
+  </p>
+  <div class="collapse" id="sc-spb-2604c0074dccb94edb74c8c74d001121">
+    <div class="card card-body mb-3">
+        <p>Также в ходе разработки модифицированной версии были сделаны следующие изменения:</p>
 <ul>
 <li>Добавлен атрибут <code>alt=&quot;...&quot;</code> для всех изображений. Атрибут имеет правильное содержимое (описание блога, логин пользователя и т.п.)</li>
 <li>Добавлены иконки для ссылок на популярные сетевые ресурсы.</li>
