@@ -1160,7 +1160,43 @@ Apache HTTPD Сервер для обработки веб-запросов. NGI
 <ul>
 <li>Реализована поддержка единичных и множественных чисел (переменных).</li>
 <li>Все фразы взяты в двойные кавычки для предотвращения конфликтов со знаками препинания, потому что их в русском языке используется большее количество, по сравнению с английским.</li>
-</ul>]]></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item><item><title>GitHub Actions Store</title><link>https://kitsune.solar/ru/portfolio/ghastore/</link><guid isPermaLink="true">https://kitsune.solar/ru/portfolio/ghastore/</guid><description>Хранилище со сценариями к GitHub Actions. Другие репозитории подключаются к этим сценариям, выполняя указанные инструкции.</description><content:encoded>&lt;p>Хранилище со сценариями к GitHub Actions. Другие репозитории подключаются к этим сценариям, выполняя указанные инструкции.&lt;/p></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item><item><title>Library Online</title><link>https://kitsune.solar/ru/portfolio/lib-onl/</link><guid isPermaLink="true">https://kitsune.solar/ru/portfolio/lib-onl/</guid><description>Во время работы часто приходится сталкиваться с задачами, требующими неординарного решения. Именно поэтому я сделал для себя библиотеку записей и назвал её скромно Library Online . В этой библиотеке я записываю найденные ответы, инструкции и советы по решению различных вопросов.
+</ul>]]></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item><item><title>GitHub Actions Store</title><link>https://kitsune.solar/ru/portfolio/ghastore/</link><guid isPermaLink="true">https://kitsune.solar/ru/portfolio/ghastore/</guid><description>Хранилище со сценариями к GitHub Actions. Другие репозитории подключаются к этим сценариям, выполняя указанные инструкции.</description><content:encoded>&lt;p>Хранилище со сценариями к GitHub Actions. Другие репозитории подключаются к этим сценариям, выполняя указанные инструкции.&lt;/p></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item><item><title>GitHub Package Store</title><link>https://kitsune.solar/ru/portfolio/pkgstore/</link><guid isPermaLink="true">https://kitsune.solar/ru/portfolio/pkgstore/</guid><description>Созданное на GitHub&amp;rsquo;е общее хранилище со скриптами, расширениями и дополнениями для CMF / CMS, а также место по разработке пакетов для дистрибутивов Linux. Каждый репозиторий хранилища представляет собой отдельный пакет или дополнение.
+Пакеты для CMF / CMF, написанные на PHP, автоматически публикуются в репозитории Packagist . Пакеты для дистрибутивов Linux автоматически отправляются в соответствующую систему сборки.</description><content:encoded><![CDATA[<p>Созданное на GitHub&rsquo;е общее хранилище со скриптами, расширениями и дополнениями для CMF / CMS, а также место по разработке пакетов для дистрибутивов Linux. Каждый репозиторий хранилища представляет собой отдельный пакет или дополнение.</p>
+<ul>
+<li>Пакеты для CMF / CMF, написанные на PHP, автоматически публикуются в репозитории 
+
+
+
+
+
+
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+
+<a title="" href="https://packagist.org/packages/pkgstore/" target="_blank" rel="noopener noreferrer nofollow">Packagist</a>
+.</li>
+<li>Пакеты для дистрибутивов Linux автоматически отправляются в соответствующую систему сборки.</li>
+</ul>]]></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item><item><title>Library Online</title><link>https://kitsune.solar/ru/portfolio/lib-onl/</link><guid isPermaLink="true">https://kitsune.solar/ru/portfolio/lib-onl/</guid><description>Во время работы часто приходится сталкиваться с задачами, требующими неординарного решения. Именно поэтому я сделал для себя библиотеку записей и назвал её скромно Library Online . В этой библиотеке я записываю найденные ответы, инструкции и советы по решению различных вопросов.
 Библиотека, как и мои записи, доступна для всех и распространяется под лицензией CC BY-SA 4.0 .</description><content:encoded><![CDATA[<p>Во время работы часто приходится сталкиваться с задачами, требующими неординарного решения. Именно поэтому я сделал для себя библиотеку записей и назвал её скромно 
 
 
@@ -1275,11 +1311,11 @@ Apache HTTPD Сервер для обработки веб-запросов. NGI
 
 <div class="shortcode shortcode-spb">
   <p>
-    <button type="button" class="btn btn-primary is-label" data-bs-toggle="collapse" data-bs-target="#sc-spb-379045868ddf2e267390a27d5131cf18">
+    <button type="button" class="btn btn-primary is-label" data-bs-toggle="collapse" data-bs-target="#sc-spb-e776252ff739f005345820ca3e750b15">
       <span>Другие изменения</span>
     </button>
   </p>
-  <div class="collapse" id="sc-spb-379045868ddf2e267390a27d5131cf18">
+  <div class="collapse" id="sc-spb-e776252ff739f005345820ca3e750b15">
     <div class="card card-body mb-3">
         <p>Также в ходе разработки модифицированной версии были сделаны следующие изменения:</p>
 <ul>
@@ -1317,40 +1353,4 @@ Apache HTTPD Сервер для обработки веб-запросов. NGI
 
     </div>
   </div>
-</div>]]></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item><item><title>Package Store</title><link>https://kitsune.solar/ru/portfolio/pkgstore/</link><guid isPermaLink="true">https://kitsune.solar/ru/portfolio/pkgstore/</guid><description>Созданное на GitHub&amp;rsquo;е общее хранилище со скриптами, расширениями и дополнениями для CMF / CMS, а также место по разработке пакетов для дистрибутивов Linux. Каждый репозиторий хранилища представляет собой отдельный пакет или дополнение.
-Пакеты для CMF / CMF, написанные на PHP, автоматически публикуются в репозитории Packagist . Пакеты для дистрибутивов Linux автоматически отправляются в соответствующую систему сборки.</description><content:encoded><![CDATA[<p>Созданное на GitHub&rsquo;е общее хранилище со скриптами, расширениями и дополнениями для CMF / CMS, а также место по разработке пакетов для дистрибутивов Linux. Каждый репозиторий хранилища представляет собой отдельный пакет или дополнение.</p>
-<ul>
-<li>Пакеты для CMF / CMF, написанные на PHP, автоматически публикуются в репозитории 
-
-
-
-
-
-
-    
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-
-
-<a title="" href="https://packagist.org/packages/pkgstore/" target="_blank" rel="noopener noreferrer nofollow">Packagist</a>
-.</li>
-<li>Пакеты для дистрибутивов Linux автоматически отправляются в соответствующую систему сборки.</li>
-</ul>]]></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item></channel></rss>
+</div>]]></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item></channel></rss>
