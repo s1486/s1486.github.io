@@ -1121,7 +1121,9 @@ Apache HTTPD Сервер для обработки веб-запросов. NGI
 Расширенная диагностика диска. Корректирую / исправляю soft-bad сектора.</li>
 <li>Windows Live CD<br>
 Диагностика целого ПК и его комплектующих. Сделал собственный Live CD на основе Windows 11, для того, чтобы диагностировать компьютеры и их комплектующие.</li>
-</ul>]]></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item><item><title>Flarum</title><link>https://kitsune.solar/ru/portfolio/flarum/</link><guid isPermaLink="true">https://kitsune.solar/ru/portfolio/flarum/</guid><description>Отличный движок для контентных проектов, таких как блог или форум. Взялся за его перевод в 2015 году. В итоге, разработчики объявили мой перевод официальным и включили в свой дистрибутив. Являюсь куратором русской локализации движка Flarum.</description><content:encoded><![CDATA[<p>Отличный движок для контентных проектов, таких как блог или форум. Взялся за его перевод в 2015 году. В итоге, разработчики объявили мой перевод официальным и включили в свой дистрибутив. Являюсь куратором русской локализации движка Flarum.</p>
+</ul>]]></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item><item><title>Flarum</title><link>https://kitsune.solar/ru/portfolio/flarum/</link><guid isPermaLink="true">https://kitsune.solar/ru/portfolio/flarum/</guid><description>Отличный движок для контентных проектов, таких как блог или форум. Взялся за его перевод в 2015 году. В итоге, разработчики объявили мой перевод официальным и включили в свой дистрибутив.
+Являюсь куратором русской локализации движка Flarum.</description><content:encoded><![CDATA[<p>Отличный движок для контентных проектов, таких как блог или форум. Взялся за его перевод в 2015 году. В итоге, разработчики объявили мой перевод официальным и включили в свой дистрибутив.</p>
+<p>Являюсь куратором русской локализации движка Flarum.</p>
 <h2 id="пакет-русской-локализации-движка-flarum">Пакет русской локализации движка Flarum</h2>
 <p>
 
@@ -1273,11 +1275,11 @@ Apache HTTPD Сервер для обработки веб-запросов. NGI
 
 <div class="shortcode shortcode-spb">
   <p>
-    <button type="button" class="btn btn-primary is-label" data-bs-toggle="collapse" data-bs-target="#sc-spb-2604c0074dccb94edb74c8c74d001121">
+    <button type="button" class="btn btn-primary is-label" data-bs-toggle="collapse" data-bs-target="#sc-spb-8c10730ba8755ea020e7456bf23b26f9">
       <span>Другие изменения</span>
     </button>
   </p>
-  <div class="collapse" id="sc-spb-2604c0074dccb94edb74c8c74d001121">
+  <div class="collapse" id="sc-spb-8c10730ba8755ea020e7456bf23b26f9">
     <div class="card card-body mb-3">
         <p>Также в ходе разработки модифицированной версии были сделаны следующие изменения:</p>
 <ul>
