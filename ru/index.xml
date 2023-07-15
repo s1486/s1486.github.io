@@ -1311,11 +1311,11 @@ Apache HTTPD Сервер для обработки веб-запросов. NGI
 
 <div class="shortcode shortcode-spb">
   <p>
-    <button type="button" class="btn btn-primary is-label" data-bs-toggle="collapse" data-bs-target="#sc-spb-8ebe043c90cd421f1b7feab7180e5205">
+    <button type="button" class="btn btn-primary is-label" data-bs-toggle="collapse" data-bs-target="#sc-spb-e93b24a11e94a089adf66feec9bd3019">
       <span>Другие изменения</span>
     </button>
   </p>
-  <div class="collapse" id="sc-spb-8ebe043c90cd421f1b7feab7180e5205">
+  <div class="collapse" id="sc-spb-e93b24a11e94a089adf66feec9bd3019">
     <div class="card card-body mb-3">
         <p>Также в ходе разработки модифицированной версии были сделаны следующие изменения:</p>
 <ul>
