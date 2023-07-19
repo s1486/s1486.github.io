@@ -1,6 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"><channel><title>Работы | Kitsune Solar</title><link>https://kitsune.solar/ru/portfolio/</link><description>Системный администратор и веб-разработчик.</description><language>ru-RU</language><sy:updatePeriod>weekly</sy:updatePeriod><sy:updateFrequency>1</sy:updateFrequency><image><link>https://kitsune.solar/ru/portfolio/</link><url>https://kitsune.solar/img/icon-128.png</url><width>128</width><height>128</height><title>Работы | Kitsune Solar</title><description>Системный администратор и веб-разработчик.</description></image><atom:link href="https://kitsune.solar/ru/portfolio/index.xml" rel="self" type="application/rss+xml"/><item><title>Flarum</title><link>https://kitsune.solar/ru/portfolio/flarum/</link><guid isPermaLink="true">https://kitsune.solar/ru/portfolio/flarum/</guid><description>Отличный движок для контентных проектов, таких как блог или форум. Взялся за его перевод в 2015 году. В итоге, разработчики объявили мой перевод официальным и включили в свой дистрибутив.
-Являюсь куратором русской локализации движка Flarum.</description><content:encoded><![CDATA[<p>Отличный движок для контентных проектов, таких как блог или форум. Взялся за его перевод в 2015 году. В итоге, разработчики объявили мой перевод официальным и включили в свой дистрибутив.</p>
-<p>Являюсь куратором русской локализации движка Flarum.</p>
+Являюсь куратором русской локализации движка Flarum. Открыл российское представительство Flarum - Flarus Community Center .</description><content:encoded><![CDATA[<p>Отличный движок для контентных проектов, таких как блог или форум. Взялся за его перевод в 2015 году. В итоге, разработчики объявили мой перевод официальным и включили в свой дистрибутив.</p>
+<ul>
+<li>Являюсь куратором русской локализации движка Flarum.</li>
+<li>Открыл российское представительство Flarum - 
+
+
+
+
+
+
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+
+<a title="" href="https://flarus.cc/" target="_blank" rel="noopener noreferrer">Flarus Community Center</a>
+.</li>
+</ul>
 <h2 id="пакет-русской-локализации-движка-flarum">Пакет русской локализации движка Flarum</h2>
 <p>
 
@@ -37,7 +71,7 @@
 <ul>
 <li>Реализована поддержка единичных и множественных чисел (переменных).</li>
 <li>Все фразы взяты в двойные кавычки для предотвращения конфликтов со знаками препинания, потому что их в русском языке используется большее количество, по сравнению с английским.</li>
-</ul>]]></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item><item><title>GitHub Actions Store</title><link>https://kitsune.solar/ru/portfolio/ghastore/</link><guid isPermaLink="true">https://kitsune.solar/ru/portfolio/ghastore/</guid><description>Хранилище со сценариями к GitHub Actions. Другие репозитории подключаются к этим сценариям, выполняя указанные инструкции.</description><content:encoded>&lt;p>Хранилище со сценариями к GitHub Actions. Другие репозитории подключаются к этим сценариям, выполняя указанные инструкции.&lt;/p></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item><item><title>GitHub Package Store</title><link>https://kitsune.solar/ru/portfolio/pkgstore/</link><guid isPermaLink="true">https://kitsune.solar/ru/portfolio/pkgstore/</guid><description>Созданное на GitHub&amp;rsquo;е общее хранилище со скриптами, расширениями и дополнениями для CMF / CMS, а также место по разработке пакетов для дистрибутивов Linux. Каждый репозиторий хранилища представляет собой отдельный пакет или дополнение.
+</ul>]]></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item><item><title>GitHub Actions Store</title><link>https://kitsune.solar/ru/portfolio/ghastore/</link><guid isPermaLink="true">https://kitsune.solar/ru/portfolio/ghastore/</guid><description>Хранилище со сценариями к GitHub Actions. Другие репозитории подключаются к этим сценариям, выполняя указанные инструкции для автоматизированного решения задач.</description><content:encoded>&lt;p>Хранилище со сценариями к GitHub Actions. Другие репозитории подключаются к этим сценариям, выполняя указанные инструкции для автоматизированного решения задач.&lt;/p></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item><item><title>GitHub Package Store</title><link>https://kitsune.solar/ru/portfolio/pkgstore/</link><guid isPermaLink="true">https://kitsune.solar/ru/portfolio/pkgstore/</guid><description>Созданное на GitHub&amp;rsquo;е общее хранилище со скриптами, расширениями и дополнениями для CMF / CMS, а также место по разработке пакетов для дистрибутивов Linux. Каждый репозиторий хранилища представляет собой отдельный пакет или дополнение.
 Пакеты для CMF / CMF, написанные на PHP, автоматически публикуются в репозитории Packagist . Пакеты для дистрибутивов Linux автоматически отправляются в соответствующую систему сборки.</description><content:encoded><![CDATA[<p>Созданное на GitHub&rsquo;е общее хранилище со скриптами, расширениями и дополнениями для CMF / CMS, а также место по разработке пакетов для дистрибутивов Linux. Каждый репозиторий хранилища представляет собой отдельный пакет или дополнение.</p>
 <ul>
 <li>Пакеты для CMF / CMF, написанные на PHP, автоматически публикуются в репозитории 
@@ -188,11 +222,11 @@
 
 <div class="shortcode shortcode-spb">
   <p>
-    <button type="button" class="btn btn-primary is-label" data-bs-toggle="collapse" data-bs-target="#sc-spb-faf1c672b2409f51ee9dee9d085ee42b">
+    <button type="button" class="btn btn-primary is-label" data-bs-toggle="collapse" data-bs-target="#sc-spb-d188346bef598176639a57ced56042d8">
       <span>Другие изменения</span>
     </button>
   </p>
-  <div class="collapse" id="sc-spb-faf1c672b2409f51ee9dee9d085ee42b">
+  <div class="collapse" id="sc-spb-d188346bef598176639a57ced56042d8">
     <div class="card card-body mb-3">
         <p>Также в ходе разработки модифицированной версии были сделаны следующие изменения:</p>
 <ul>

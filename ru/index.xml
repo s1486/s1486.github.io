@@ -1234,8 +1234,42 @@ Apache HTTPD Сервер для обработки веб-запросов. NGI
 </li>
 </ul>
 ]]></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item><item><title>Flarum</title><link>https://kitsune.solar/ru/portfolio/flarum/</link><guid isPermaLink="true">https://kitsune.solar/ru/portfolio/flarum/</guid><description>Отличный движок для контентных проектов, таких как блог или форум. Взялся за его перевод в 2015 году. В итоге, разработчики объявили мой перевод официальным и включили в свой дистрибутив.
-Являюсь куратором русской локализации движка Flarum.</description><content:encoded><![CDATA[<p>Отличный движок для контентных проектов, таких как блог или форум. Взялся за его перевод в 2015 году. В итоге, разработчики объявили мой перевод официальным и включили в свой дистрибутив.</p>
-<p>Являюсь куратором русской локализации движка Flarum.</p>
+Являюсь куратором русской локализации движка Flarum. Открыл российское представительство Flarum - Flarus Community Center .</description><content:encoded><![CDATA[<p>Отличный движок для контентных проектов, таких как блог или форум. Взялся за его перевод в 2015 году. В итоге, разработчики объявили мой перевод официальным и включили в свой дистрибутив.</p>
+<ul>
+<li>Являюсь куратором русской локализации движка Flarum.</li>
+<li>Открыл российское представительство Flarum - 
+
+
+
+
+
+
+    
+    
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+
+<a title="" href="https://flarus.cc/" target="_blank" rel="noopener noreferrer">Flarus Community Center</a>
+.</li>
+</ul>
 <h2 id="пакет-русской-локализации-движка-flarum">Пакет русской локализации движка Flarum</h2>
 <p>
 
@@ -1272,4 +1306,4 @@ Apache HTTPD Сервер для обработки веб-запросов. NGI
 <ul>
 <li>Реализована поддержка единичных и множественных чисел (переменных).</li>
 <li>Все фразы взяты в двойные кавычки для предотвращения конфликтов со знаками препинания, потому что их в русском языке используется большее количество, по сравнению с английским.</li>
-</ul>]]></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item><item><title>GitHub Actions Store</title><link>https://kitsune.solar/ru/portfolio/ghastore/</link><guid isPermaLink="true">https://kitsune.solar/ru/portfolio/ghastore/</guid><description>Хранилище со сценариями к GitHub Actions. Другие репозитории подключаются к этим сценариям, выполняя указанные инструкции.</description><content:encoded>&lt;p>Хранилище со сценариями к GitHub Actions. Другие репозитории подключаются к этим сценариям, выполняя указанные инструкции.&lt;/p></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item></channel></rss>
+</ul>]]></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item><item><title>GitHub Actions Store</title><link>https://kitsune.solar/ru/portfolio/ghastore/</link><guid isPermaLink="true">https://kitsune.solar/ru/portfolio/ghastore/</guid><description>Хранилище со сценариями к GitHub Actions. Другие репозитории подключаются к этим сценариям, выполняя указанные инструкции для автоматизированного решения задач.</description><content:encoded>&lt;p>Хранилище со сценариями к GitHub Actions. Другие репозитории подключаются к этим сценариям, выполняя указанные инструкции для автоматизированного решения задач.&lt;/p></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item></channel></rss>
