@@ -222,11 +222,11 @@
 
 <div class="shortcode shortcode-spb">
   <p>
-    <button type="button" class="btn btn-primary is-label" data-bs-toggle="collapse" data-bs-target="#sc-spb-a1c631a74b3ad8dff0ea4b2666ee69ad">
+    <button type="button" class="btn btn-primary is-label" data-bs-toggle="collapse" data-bs-target="#sc-spb-e36cf19c3f543dd1d690d3c8061fc5e3">
       <span>Другие изменения</span>
     </button>
   </p>
-  <div class="collapse" id="sc-spb-a1c631a74b3ad8dff0ea4b2666ee69ad">
+  <div class="collapse" id="sc-spb-e36cf19c3f543dd1d690d3c8061fc5e3">
     <div class="card card-body mb-3">
         <p>Также в ходе разработки модифицированной версии были сделаны следующие изменения:</p>
 <ul>
