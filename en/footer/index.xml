@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"><channel><title>Footers | Kitsune Solar</title><link>https://kitsune.solar/en/footer/</link><description>System administrator and web developer.</description><language>en-US</language><sy:updatePeriod>weekly</sy:updatePeriod><sy:updateFrequency>1</sy:updateFrequency><image><link>https://kitsune.solar/en/footer/</link><url>https://kitsune.solar/img/icon-128.png</url><width>128</width><height>128</height><title>Footers | Kitsune Solar</title><description>System administrator and web developer.</description></image><atom:link href="https://kitsune.solar/en/footer/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://kitsune.solar/en/footer/about/</link><guid isPermaLink="true">https://kitsune.solar/en/footer/about/</guid><description>System administrator and web developer.
 I&amp;rsquo;m writing articles on system administration and development of various systems, applications and servers.</description><content:encoded><![CDATA[<p>System administrator and web developer.</p>
 <p>I&rsquo;m writing articles on system administration and development of various systems, applications and servers.</p>
-]]></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item><item><title>Resources</title><link>https://kitsune.solar/en/footer/resources/</link><guid isPermaLink="true">https://kitsune.solar/en/footer/resources/</guid><description> iHub Technological Organization Flarus Community Center GitHub Package Store</description><content:encoded><![CDATA[<ul>
+]]></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item><item><title>Resources</title><link>https://kitsune.solar/en/footer/resources/</link><guid isPermaLink="true">https://kitsune.solar/en/footer/resources/</guid><description> iHub Technological Organization Library Online Flarus Community Center</description><content:encoded><![CDATA[<ul>
 <li><a href="https://ihub.to/">iHub Technological Organization</a></li>
+<li><a href="https://lib.onl/">Library Online</a></li>
 <li><a href="https://flarus.cc/">Flarus Community Center</a></li>
-<li><a href="https://github.com/pkgstore">GitHub Package Store</a></li>
 </ul>
-]]></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item><item><title>Contacts</title><link>https://kitsune.solar/en/footer/contacts/</link><guid isPermaLink="true">https://kitsune.solar/en/footer/contacts/</guid><description> mail@kitsune.solar</description><content:encoded><![CDATA[<ul>
-<li><a href="mailto:mail@kitsune.solar">mail@kitsune.solar</a></li>
+]]></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item><item><title>Contacts</title><link>https://kitsune.solar/en/footer/contacts/</link><guid isPermaLink="true">https://kitsune.solar/en/footer/contacts/</guid><description> Email</description><content:encoded><![CDATA[<ul>
+<li><a href="mail@kitsune.solar">Email</a></li>
 </ul>
 ]]></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item></channel></rss>
