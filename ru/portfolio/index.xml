@@ -36,11 +36,11 @@
 
 <div class="shortcode shortcode-spb">
   <p>
-    <button type="button" class="btn btn-primary is-label" data-bs-toggle="collapse" data-bs-target="#sc-spb-f2758f66aa0a313b11edd9189414b009">
+    <button type="button" class="btn btn-primary is-label" data-bs-toggle="collapse" data-bs-target="#sc-spb-0cadc37715a5fd84f4314b88e8bafc85">
       <span>Другие изменения</span>
     </button>
   </p>
-  <div class="collapse" id="sc-spb-f2758f66aa0a313b11edd9189414b009">
+  <div class="collapse" id="sc-spb-0cadc37715a5fd84f4314b88e8bafc85">
     <div class="card card-body mb-3">
         <p>Также в ходе разработки модифицированной версии были сделаны следующие изменения:</p>
 <ul>
