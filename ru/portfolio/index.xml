@@ -1,212 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"><channel><title>Работы | Kitsune Solar</title><link>https://kitsune.solar/ru/portfolio/</link><description>Системный администратор и веб-разработчик.</description><language>ru-RU</language><sy:updatePeriod>weekly</sy:updatePeriod><sy:updateFrequency>1</sy:updateFrequency><image><link>https://kitsune.solar/ru/portfolio/</link><url>https://kitsune.solar/img/icon-128.png</url><width>128</width><height>128</height><title>Работы | Kitsune Solar</title><description>Системный администратор и веб-разработчик.</description></image><atom:link href="https://kitsune.solar/ru/portfolio/index.xml" rel="self" type="application/rss+xml"/><item><title>Flarum</title><link>https://kitsune.solar/ru/portfolio/flarum/</link><guid isPermaLink="true">https://kitsune.solar/ru/portfolio/flarum/</guid><description>Отличный движок для контентных проектов, таких как блог или форум. Взялся за его перевод в 2015 году. В итоге, разработчики объявили мой перевод официальным и включили в свой дистрибутив.
-Являюсь куратором русской локализации движка Flarum. Открыл российское представительство Flarum - Flarus Community Center .</description><content:encoded><![CDATA[<p>Отличный движок для контентных проектов, таких как блог или форум. Взялся за его перевод в 2015 году. В итоге, разработчики объявили мой перевод официальным и включили в свой дистрибутив.</p>
+Являюсь куратором русской локализации движка Flarum. Открыл российское представительство Flarum - Flarus Community Center.</description><content:encoded><![CDATA[<p>Отличный движок для контентных проектов, таких как блог или форум. Взялся за его перевод в 2015 году. В итоге, разработчики объявили мой перевод официальным и включили в свой дистрибутив.</p>
 <ul>
 <li>Являюсь куратором русской локализации движка Flarum.</li>
-<li>Открыл российское представительство Flarum - 
-
-
-
-
-
-
-    
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-
-
-<a title="" href="https://flarus.cc/" target="_blank" rel="noopener noreferrer">Flarus Community Center</a>
-.</li>
+<li>Открыл российское представительство Flarum - <a href="https://flarus.cc/">Flarus Community Center</a>.</li>
 </ul>
 <h2 id="пакет-русской-локализации-движка-flarum">Пакет русской локализации движка Flarum</h2>
-<p>
-
-
-
-
-
-
-    
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-
-
-<a title="" href="https://discuss.flarum.org/d/1545" target="_blank" rel="noopener noreferrer">Пакет русской локализации движка Flarum</a>
- - программного обеспечения нового поколения для создания сообществ.</p>
+<p><a href="https://discuss.flarum.org/d/1545">Пакет русской локализации движка Flarum</a> - программного обеспечения нового поколения для создания сообществ.</p>
 <ul>
 <li>Реализована поддержка единичных и множественных чисел (переменных).</li>
 <li>Все фразы взяты в двойные кавычки для предотвращения конфликтов со знаками препинания, потому что их в русском языке используется большее количество, по сравнению с английским.</li>
 </ul>]]></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item><item><title>GitHub Actions Store</title><link>https://kitsune.solar/ru/portfolio/ghastore/</link><guid isPermaLink="true">https://kitsune.solar/ru/portfolio/ghastore/</guid><description>Хранилище со сценариями к GitHub Actions. Другие репозитории подключаются к этим сценариям, выполняя указанные инструкции для автоматизированного решения задач.</description><content:encoded>&lt;p>Хранилище со сценариями к GitHub Actions. Другие репозитории подключаются к этим сценариям, выполняя указанные инструкции для автоматизированного решения задач.&lt;/p></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item><item><title>GitHub Package Store</title><link>https://kitsune.solar/ru/portfolio/pkgstore/</link><guid isPermaLink="true">https://kitsune.solar/ru/portfolio/pkgstore/</guid><description>Созданное на GitHub&amp;rsquo;е общее хранилище со скриптами, расширениями и дополнениями для CMF / CMS, а также место по разработке пакетов для дистрибутивов Linux. Каждый репозиторий хранилища представляет собой отдельный пакет или дополнение.
-Пакеты для CMF / CMF, написанные на PHP, автоматически публикуются в репозитории Packagist . Пакеты для дистрибутивов Linux автоматически отправляются в соответствующую систему сборки.</description><content:encoded><![CDATA[<p>Созданное на GitHub&rsquo;е общее хранилище со скриптами, расширениями и дополнениями для CMF / CMS, а также место по разработке пакетов для дистрибутивов Linux. Каждый репозиторий хранилища представляет собой отдельный пакет или дополнение.</p>
+Пакеты для CMF / CMF, написанные на PHP, автоматически публикуются в репозитории Packagist. Пакеты для дистрибутивов Linux автоматически отправляются в соответствующую систему сборки.</description><content:encoded><![CDATA[<p>Созданное на GitHub&rsquo;е общее хранилище со скриптами, расширениями и дополнениями для CMF / CMS, а также место по разработке пакетов для дистрибутивов Linux. Каждый репозиторий хранилища представляет собой отдельный пакет или дополнение.</p>
 <ul>
-<li>Пакеты для CMF / CMF, написанные на PHP, автоматически публикуются в репозитории 
-
-
-
-
-
-
-    
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-
-
-<a title="" href="https://packagist.org/packages/pkgstore/" target="_blank" rel="noopener noreferrer">Packagist</a>
-.</li>
+<li>Пакеты для CMF / CMF, написанные на PHP, автоматически публикуются в репозитории <a href="https://packagist.org/packages/pkgstore/">Packagist</a>.</li>
 <li>Пакеты для дистрибутивов Linux автоматически отправляются в соответствующую систему сборки.</li>
-</ul>]]></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item><item><title>GitHub Universal AIK</title><link>https://kitsune.solar/ru/portfolio/uaik/</link><guid isPermaLink="true">https://kitsune.solar/ru/portfolio/uaik/</guid><description>Хранилище со сценариями установки для дистрибутивов Linux и MS Windows. Системы установки Linux подключаются к этому хранилищу, забирая сценарии и выполняя указанные инструкции.</description><content:encoded>&lt;p>Хранилище со сценариями установки для дистрибутивов Linux и MS Windows. Системы установки Linux подключаются к этому хранилищу, забирая сценарии и выполняя указанные инструкции.&lt;/p></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item><item><title>Library Online</title><link>https://kitsune.solar/ru/portfolio/lib-onl/</link><guid isPermaLink="true">https://kitsune.solar/ru/portfolio/lib-onl/</guid><description>Во время работы часто приходится сталкиваться с задачами, требующими неординарного решения. Именно поэтому я сделал для себя библиотеку записей и назвал её скромно Library Online . В этой библиотеке я записываю найденные ответы, инструкции и советы по решению различных вопросов.
-Библиотека, как и мои записи, доступна для всех и распространяется под лицензией CC BY-SA 4.0 .</description><content:encoded><![CDATA[<p>Во время работы часто приходится сталкиваться с задачами, требующими неординарного решения. Именно поэтому я сделал для себя библиотеку записей и назвал её скромно 
-
-
-
-
-
-
-    
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-
-
-<a title="" href="https://lib.onl" target="_blank" rel="noopener noreferrer">Library Online</a>
-. В этой библиотеке я записываю найденные ответы, инструкции и советы по решению различных вопросов.</p>
-<p>Библиотека, как и мои записи, доступна для всех и распространяется под лицензией 
-
-
-
-
-
-
-    
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-
-
-<a title="" href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0</a>
-.</p>]]></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item><item><title>LiveStreet</title><link>https://kitsune.solar/ru/portfolio/livestreet/</link><guid isPermaLink="true">https://kitsune.solar/ru/portfolio/livestreet/</guid><description>Сначала мне очень не нравился LiveStreet CMS. Но потом я попробовал шаблон &amp;ldquo;Developer-Kit&amp;rdquo; от vOFFka на основе Bootstrap и с этим шаблоном LiveStreet для меня заиграл новыми красками. И так заиграл, что я выпустил для своих проектов и некоторое время поддерживал собственные модули и модификацию этого шаблона под названием &amp;ldquo;Developer-Kit MOD&amp;rdquo;, в которой я исправлял ошибки в вёрстке и обновлял компоненты.
+</ul>]]></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item><item><title>GitHub Universal AIK</title><link>https://kitsune.solar/ru/portfolio/uaik/</link><guid isPermaLink="true">https://kitsune.solar/ru/portfolio/uaik/</guid><description>Хранилище со сценариями установки для дистрибутивов Linux и MS Windows. Системы установки Linux подключаются к этому хранилищу, забирая сценарии и выполняя указанные инструкции.</description><content:encoded>&lt;p>Хранилище со сценариями установки для дистрибутивов Linux и MS Windows. Системы установки Linux подключаются к этому хранилищу, забирая сценарии и выполняя указанные инструкции.&lt;/p></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item><item><title>Library Online</title><link>https://kitsune.solar/ru/portfolio/lib-onl/</link><guid isPermaLink="true">https://kitsune.solar/ru/portfolio/lib-onl/</guid><description>Во время работы часто приходится сталкиваться с задачами, требующими неординарного решения. Именно поэтому я сделал для себя библиотеку записей и назвал её скромно Library Online. В этой библиотеке я записываю найденные ответы, инструкции и советы по решению различных вопросов.
+Библиотека, как и мои записи, доступна для всех и распространяется под лицензией CC BY-SA 4.0.</description><content:encoded><![CDATA[<p>Во время работы часто приходится сталкиваться с задачами, требующими неординарного решения. Именно поэтому я сделал для себя библиотеку записей и назвал её скромно <a href="https://lib.onl">Library Online</a>. В этой библиотеке я записываю найденные ответы, инструкции и советы по решению различных вопросов.</p>
+<p>Библиотека, как и мои записи, доступна для всех и распространяется под лицензией <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</p>]]></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item><item><title>LiveStreet</title><link>https://kitsune.solar/ru/portfolio/livestreet/</link><guid isPermaLink="true">https://kitsune.solar/ru/portfolio/livestreet/</guid><description>Сначала мне очень не нравился LiveStreet CMS. Но потом я попробовал шаблон &amp;ldquo;Developer-Kit&amp;rdquo; от vOFFka на основе Bootstrap и с этим шаблоном LiveStreet для меня заиграл новыми красками. И так заиграл, что я выпустил для своих проектов и некоторое время поддерживал собственные модули и модификацию этого шаблона под названием &amp;ldquo;Developer-Kit MOD&amp;rdquo;, в которой я исправлял ошибки в вёрстке и обновлял компоненты.
 К сожалению, LiveStreet CMS перестал обновляться, а автор этого движка отошёл от разработки.</description><content:encoded><![CDATA[<p>Сначала мне очень не нравился LiveStreet CMS. Но потом я попробовал шаблон &ldquo;Developer-Kit&rdquo; от vOFFka на основе Bootstrap и с этим шаблоном LiveStreet для меня заиграл новыми красками. И так заиграл, что я выпустил для своих проектов и некоторое время поддерживал собственные модули и модификацию этого шаблона под названием &ldquo;Developer-Kit MOD&rdquo;, в которой я исправлял ошибки в вёрстке и обновлял компоненты.</p>
 <p><em>К сожалению, LiveStreet CMS перестал обновляться, а автор этого движка отошёл от разработки.</em></p>
 <h2 id="developer-kit-mod">Developer-Kit MOD</h2>
-<p>
-
-
-
-
-
-
-    
-    
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-
-
-<a title="" href="http://livestreet.ru/blog/18322.html" target="_blank" rel="noopener noreferrer">Developer-Kit MOD</a>
- отличается от оригинала следующими параметрами:</p>
+<p><a href="http://livestreet.ru/blog/18322.html">Developer-Kit MOD</a> отличается от оригинала следующими параметрами:</p>
 <ul>
 <li>Чтобы не править оригинальную тему <code>default</code>, была создана новая - <code>system</code>.</li>
 <li>Добавлены иконки Font Awesome для верхней навигации и выпадающей панели пользователя.</li>
@@ -222,11 +36,11 @@
 
 <div class="shortcode shortcode-spb">
   <p>
-    <button type="button" class="btn btn-primary is-label" data-bs-toggle="collapse" data-bs-target="#sc-spb-89e2a6f248474a47dcb488b74fe397cd">
+    <button type="button" class="btn btn-primary is-label" data-bs-toggle="collapse" data-bs-target="#sc-spb-961e2c82b0d8f8e9718f4d354a24a315">
       <span>Другие изменения</span>
     </button>
   </p>
-  <div class="collapse" id="sc-spb-89e2a6f248474a47dcb488b74fe397cd">
+  <div class="collapse" id="sc-spb-961e2c82b0d8f8e9718f4d354a24a315">
     <div class="card card-body mb-3">
         <p>Также в ходе разработки модифицированной версии были сделаны следующие изменения:</p>
 <ul>
