@@ -4,7 +4,7 @@
 <li>Являюсь куратором русской локализации движка Flarum.</li>
 <li>Открыл российское представительство Flarum - <a href="https://flarus.cc/">Flarus Community Center</a>.</li>
 </ul>
-<h2 id="пакет-русской-локализации-движка-flarum">Пакет русской локализации движка Flarum</h2>
+<h2>Пакет русской локализации движка Flarum</h2>
 <p><a href="https://discuss.flarum.org/d/1545">Пакет русской локализации движка Flarum</a> - программного обеспечения нового поколения для создания сообществ.</p>
 <ul>
 <li>Реализована поддержка единичных и множественных чисел (переменных).</li>
@@ -19,7 +19,7 @@
 <p>Библиотека, как и мои записи, доступна для всех и распространяется под лицензией <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</p>]]></content:encoded><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate></item><item><title>LiveStreet</title><link>https://kitsune.solar/ru/portfolio/livestreet/</link><guid isPermaLink="true">https://kitsune.solar/ru/portfolio/livestreet/</guid><description>Сначала мне очень не нравился LiveStreet CMS. Но потом я попробовал шаблон &amp;ldquo;Developer-Kit&amp;rdquo; от vOFFka на основе Bootstrap и с этим шаблоном LiveStreet для меня заиграл новыми красками. И так заиграл, что я выпустил для своих проектов и некоторое время поддерживал собственные модули и модификацию этого шаблона под названием &amp;ldquo;Developer-Kit MOD&amp;rdquo;, в которой я исправлял ошибки в вёрстке и обновлял компоненты.
 К сожалению, LiveStreet CMS перестал обновляться, а автор этого движка отошёл от разработки.</description><content:encoded><![CDATA[<p>Сначала мне очень не нравился LiveStreet CMS. Но потом я попробовал шаблон &ldquo;Developer-Kit&rdquo; от vOFFka на основе Bootstrap и с этим шаблоном LiveStreet для меня заиграл новыми красками. И так заиграл, что я выпустил для своих проектов и некоторое время поддерживал собственные модули и модификацию этого шаблона под названием &ldquo;Developer-Kit MOD&rdquo;, в которой я исправлял ошибки в вёрстке и обновлял компоненты.</p>
 <p><em>К сожалению, LiveStreet CMS перестал обновляться, а автор этого движка отошёл от разработки.</em></p>
-<h2 id="developer-kit-mod">Developer-Kit MOD</h2>
+<h2>Developer-Kit MOD</h2>
 <p><a href="http://livestreet.ru/blog/18322.html">Developer-Kit MOD</a> отличается от оригинала следующими параметрами:</p>
 <ul>
 <li>Чтобы не править оригинальную тему <code>default</code>, была создана новая - <code>system</code>.</li>
@@ -36,11 +36,11 @@
 
 <div class="shortcode shortcode-spb">
   <p>
-    <button type="button" class="btn btn-primary is-label" data-bs-toggle="collapse" data-bs-target="#sc-spb-692ed5d4a486209415141454971756c4">
+    <button type="button" class="btn btn-primary is-label" data-bs-toggle="collapse" data-bs-target="#sc-spb-b0f186614e1185506038dea00ee9fa38">
       <span>Другие изменения</span>
     </button>
   </p>
-  <div class="collapse" id="sc-spb-692ed5d4a486209415141454971756c4">
+  <div class="collapse" id="sc-spb-b0f186614e1185506038dea00ee9fa38">
     <div class="card card-body mb-3">
         <p>Также в ходе разработки модифицированной версии были сделаны следующие изменения:</p>
 <ul>
