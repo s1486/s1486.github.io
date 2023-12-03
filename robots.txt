@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://kitsune.solar/sitemap.xml
+Sitemap: https://z17.cx/sitemap.xml
