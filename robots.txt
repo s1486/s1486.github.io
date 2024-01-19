@@ -4,4 +4,4 @@ Disallow: /*/index.xml
 Disallow: /*/manifest.json
 Disallow: /*/footer/
 
-Sitemap: https://z17.cx/sitemap.xml
+Sitemap: https://kai.kim/sitemap.xml
